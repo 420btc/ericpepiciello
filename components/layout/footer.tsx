@@ -9,7 +9,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           <div>
             <Link href="/" className="font-playfair text-3xl font-bold tracking-tight">
-              Eric<span className="text-muted-foreground">Pepiciello</span>
+              Eric<span className="ml-2 text-muted-foreground">Pepiciello</span><span className="ml-2 text-muted-foreground">Quesada</span>
             </Link>
             <p className="mt-4 text-muted-foreground">
               Fotógrafo malagueño especializado en fotografía de moda, retratos y fotografía artística.
