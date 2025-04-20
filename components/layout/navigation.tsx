@@ -24,7 +24,7 @@ export function Navigation() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-sm border-b border-border">
       <div className="container-custom flex items-center justify-between h-20">
         <Link href="/" className="font-playfair text-2xl font-bold tracking-tight">
-          Eric<span className="ml-2 text-muted-foreground">Pepiciello</span>
+          Eric<span className="ml-2 text-muted-foreground">Pepiciello</span><span className="ml-2 text-muted-foreground">Quesada</span>
         </Link>
 
         {/* Desktop Navigation */}
